@@ -2,12 +2,12 @@
 <h1 align="center">Hi, I'm Prem 👋</h1>
 
 <h3 align="center">
-  AI Developer | Generative AI | LLM Applications
+  AI Developer | Generative AI | LLM Applications | AI/ML Engineer
 </h3>
 
 <p align="center">
-  Building practical AI applications with Python, LLMs,
-  Retrieval-Augmented Generation, and backend APIs.
+  Building practical AI applications with Python, Large Language Models,
+  context-aware chatbots, and backend APIs.
 </p>
 
 <p align="center">
@@ -23,59 +23,82 @@
 
 ## 🚀 About Me
 
-I'm an AI Developer interested in building intelligent,
-context-aware applications using Generative AI and Large
-Language Models.
+I'm an AI Developer interested in building intelligent, context-aware applications using Generative AI and Large Language Models.
 
-- 🤖 Working on LLM-powered chatbot applications
-- 🧠 Exploring RAG, AI agents, and tool calling
+- 🤖 Exploring Generative AI and LLM-powered applications
+- 🧠 Interested in RAG, AI agents, and tool calling
 - 🐍 Developing backend services with Python and FastAPI
-- 🗄️ Working with PostgreSQL and REST API integrations
-- 📈 Interested in reliable AI systems and LLM evaluation
-- 🎯 Career focus: Generative AI and AI Engineering
+- 🗄️ Working with PostgreSQL, SQLAlchemy, and REST APIs
+- 📈 Interested in LLM evaluation, reliability, and performance optimization
+- 🎯 Career focus: Generative AI Engineer and AI Engineering
 
-## 🛠️ Tech Stack
+---
 
-**Languages & Backend**
+## 🛠️ Technical Skills
 
-Python · FastAPI · REST APIs · SQL
+### 🤖 Generative AI & LLMs
 
-**Generative AI**
+Generative AI · Large Language Models (LLMs) · Prompt Engineering · Context-Aware Chatbots · AI Agents · Tool Calling · Retrieval-Augmented Generation (RAG) · Embeddings · Semantic Search · LLM Evaluation · RAGAS · LangChain · LangGraph · LlamaIndex · Human-in-the-Loop (HITL) · LLMOps · OpenAI API
 
-LLMs · Prompt Engineering · RAG · LangChain · OpenAI API
+### 🧠 Artificial Intelligence & Machine Learning
 
-**Databases & Tools**
+Machine Learning · Deep Learning · Natural Language Processing (NLP) · Transformers · Attention Mechanisms · Exploratory Data Analysis (EDA) · Feature Engineering · Feature Scaling · Data Preprocessing · Model Evaluation · Classification · Regression
 
-PostgreSQL · SQLAlchemy · Git · Docker
+### 💻 Programming Languages
+
+Python · SQL
+
+### ⚙️ Backend Development & APIs
+
+FastAPI · REST API Development · API Integration · Asynchronous Programming · JWT Authentication · Request and Response Handling · Exception Handling · Logging · Monitoring · Postman
+
+### 🗄️ Databases & Data Engineering
+
+PostgreSQL · SQLAlchemy · Relational Database Design · Conversation History Management · Data Storage and Retrieval · Vector Databases
+
+### ☁️ Cloud & DevOps
+
+Docker · Git · GitHub · CI/CD Fundamentals · Jenkins · Amazon Web Services (AWS) · Amazon Bedrock · Amazon ECR · Microsoft Azure AI
+
+### 📊 AI Application Quality & LLMOps
+
+Prompt Testing · Evaluation Datasets · Faithfulness Evaluation · Structured Logging · Error Tracking · Latency Optimization · API Testing · Application Monitoring
+
+---
 
 ## 🌟 Featured Project
 
-### TMM Context-Aware AI Chatbot
+### 🤖 TMM Context-Aware AI Chatbot
 
-An AI-powered chatbot project designed to answer
-application-specific questions using relevant context.
+An AI-powered chatbot designed to answer application-specific questions using relevant context and integrate with backend services.
 
-**Project focus:**
-- LLM integration and prompt design
-- Context-aware response generation
-- FastAPI backend development
-- Conversation history and PostgreSQL integration
-- Authentication and API integration
-- Response quality and reliability
+**Tech Stack:** Python · FastAPI · OpenAI API · PostgreSQL · SQLAlchemy · JWT · REST APIs · Docker
 
-🔗 [Explore the repository](https://github.com/Premyarramreddy/tmm_chat_bot)
+**Project Highlights**
 
-## 📚 Currently Exploring
+- Developed chatbot APIs for processing user questions and generating AI responses.
+- Integrated application-specific information to support relevant responses.
+- Implemented conversation history storage and retrieval using PostgreSQL.
+- Integrated JWT authentication and backend API functionality.
+- Worked on response quality, error handling, and performance optimization.
 
-- Agentic AI and tool calling
-- LangGraph and multi-step AI workflows
-- RAG pipelines and retrieval evaluation
-- Production-ready LLM application development
+🔗 **[Explore the TMM Chatbot Repository](https://github.com/Premyarramreddy/tmm_chat_bot)**
+
+---
+
+## 📚 Areas of Interest
+
+- Agentic AI and multi-step tool workflows
+- RAG pipelines and retrieval optimization
+- LLM evaluation and observability
+- Cloud deployment of AI applications
+- Production-ready Generative AI architectures
+
+---
 
 ## 🤝 Let's Connect
 
-I'm interested in learning, building, and collaborating
-on meaningful Generative AI projects.
+I'm interested in learning, building, and collaborating on meaningful Generative AI projects.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/premreddy123)
 - 💻 [GitHub](https://github.com/Premyarramreddy)
